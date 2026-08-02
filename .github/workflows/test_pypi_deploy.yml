@@ -44,7 +44,7 @@ jobs:
 
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/test_helper_by_delica
+      url: https://test.pypi.org/p/file_helper_by_delica
 
     permissions:
       id-token: write  # IMPORTANT: mandatory for trusted publishing
